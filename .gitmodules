@@ -3,7 +3,7 @@
 	url = git@github.com:pdendek/gitsubmodules_slaveB.git
 [submodule "subC"]
 	path = subC
-	url = https://github.com/pdendek/gitsubmodules_slaveC
+	url = git@github.com:pdendek/gitsubmodules_slaveC.git
 [submodule "roles"]
 	path = roles
 	url = git@github.com:pdendek/gitsubmodules_slaveProxyA.git
