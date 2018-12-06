@@ -4,3 +4,6 @@
 [submodule "subC"]
 	path = gitsubmodules_slaveC
 	url = git@github.com:pdendek/gitsubmodules_slaveC.git
+[submodule "roles"]
+	path = roles
+	url = git@github.com:pdendek/gitsubmodules_slaveProxyA.git
